@@ -110,21 +110,27 @@ Purpose: Portfolio / Data Analysis Project
 
 📸 Dashboard Preview
 
+EXECUTIVE DASHBOARD
 ![Executive](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20001925.png)
 
+MAP
 ![Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20001940.png)
 
-
+PRODUCT
 ![Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20001954.png)
 
+CUSTOMER DETAILS
 ![Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20002014.png)
 
+
+[Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20002014.png)
 
 
 👤 Author
 
 Umar Alam
 📍 Data Analyst | Power BI | Python | SQL
-🔗 LinkedIn Profile[https://www.linkedin.com/in/umar-alam-a1b2c3/]
+**GitHub**: [umar9643](https://github.com/umar9643)  
+**LinkedIn**: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3)  
+**Email**: [alamumar258455@gmail.com](mailto:alamumar258455@gmail.com)
 
-📧 alamumar258455@gmail.com
