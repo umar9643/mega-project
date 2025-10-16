@@ -111,7 +111,9 @@ Purpose: Portfolio / Data Analysis Project
 📸 Dashboard Preview
 
 ![Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20001925.png)
-
+![Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20001940.png)
+![Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20001954.png)
+![Executive Dashboard](https://github.com/umar9643/mega-project/blob/main/Dash_img/Screenshot%202025-10-17%20002014.png)
 
 Customer Details Dashboard
 
