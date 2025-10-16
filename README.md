@@ -1,32 +1,35 @@
-🛍️ Amazon Sales Dashboard (Power BI)
-📊 Project Overview
+🛍️ ***Amazon Sales Dashboard (Power BI)***
+📊 **Project Overview**
 
-This Power BI project showcases an interactive Amazon Sales Dashboard that provides valuable insights into revenue, profit, orders, and customer behavior.
-It helps business teams track performance, identify sales opportunities, and make data-driven decisions.
+This project is an interactive Amazon Sales Dashboard that I built using Power BI.
+I worked on this project for several weeks, learning and applying different Power BI functions, DAX formulas, and visualization techniques along the way.
 
-🎯 Objectives
+The goal was to analyze Amazon’s sales performance, understand customer behavior, and identify areas where the company can improve sales and profit.
+Through this project, I got hands-on experience in data cleaning, data modeling, and storytelling with data.
 
-Analyze total sales, profit, and order volume across years.
+🎯 **Objectives**
 
-Evaluate customer demographics such as income level and occupation.
+Analyze total sales, profit, and orders across multiple years.
 
-Identify top-performing and underperforming products.
+Study customer demographics such as income level and occupation.
 
-Understand customer trends and revenue growth over time.
+Find out top-performing and low-performing products.
 
-Highlight key metrics for management decisions.
+Visualize monthly sales trends and forecast future performance.
 
-🧩 Tools & Technologies
+Highlight key metrics to help make data-driven business decisions.
+
+🧩 **Tools & Technologies**
 
 Microsoft Power BI Desktop
 
-DAX (Data Analysis Expressions) for calculated measures
+DAX (Data Analysis Expressions) – used for calculated measures
 
-Power Query Editor for data cleaning and transformation
+Power Query Editor – for data transformation and cleaning
 
-Excel/CSV Dataset (Amazon Sales Data)
+Excel/CSV Dataset – as the data source
 
-📈 Dashboard Insights
+📈 **Dashboard Insights**
 🧾 Executive Summary
 
 Total Revenue: $24.9M
@@ -43,11 +46,11 @@ Unique Customers: 17.4K
 
 Revenue per Customer: $1,431
 
-Top Customer by Revenue: Mr. Maurice Shan — 6 Orders, $12K Revenue
+Top Customer: Mr. Maurice Shan — 6 Orders, $12K Revenue
 
-Customer distribution analyzed by Income Level (High, Average, Low) and Occupation (Professional, Management, Skilled Manual)
+Customers categorized by Income Level (High, Average, Low) and Occupation (Professional, Management, Skilled Manual)
 
-📦 Product & Category Analysis
+📦 **Product & Category Analysis**
 
 Most Ordered Product Type: Tires and Tubes
 
@@ -55,58 +58,40 @@ Most Returned Product Type: Shorts
 
 Top 5 Products by Revenue:
 
-Fender Set – Mountain ($87K revenue)
+Fender Set – Mountain ($87K)
 
-Sport-100 Helmet, Blue ($67K revenue)
+Sport-100 Helmet, Red ($73K)
 
-Sport-100 Helmet, Red ($73K revenue)
+Sport-100 Helmet, Blue ($67K)
 
-Mountain Bottle Cage ($38K revenue)
+Water Bottle – 30 oz. ($39K)
 
-Water Bottle – 30 oz. ($39K revenue)
+Mountain Bottle Cage ($38K)
 
-📅 Time Series Trends
+📅 **Time Series Trends**
 
-Line chart visualizing monthly revenue trends (2020–2023).
+Revenue trend shown month-wise from 2020–2023
 
-Forecasting applied to project future revenue growth.
+Forecasting visuals predict expected future sales
 
-Monthly KPIs tracking revenue vs. target goals.
+KPIs track revenue vs. targets for each period
 
-🧠 Key Takeaways
+🧠 **Key Takeaways**
 
-✅ Revenue shows consistent upward growth trend post-2021.
-✅ High-income customers contribute less in volume but higher in revenue share.
-✅ Majority of orders are from average and low-income groups.
-✅ Professional and skilled manual occupations form the largest buyer segment.
-✅ Return percentage remains low (2.2%), indicating good customer satisfaction.
+✅ Revenue has shown consistent growth since 2021
+✅ High-income customers contribute higher revenue but fewer orders
+✅ Majority of customers belong to average and low-income groups
+✅ Professionals and skilled manual workers dominate the customer base
+✅ Return percentage is only 2.2%, indicating strong customer satisfaction
 
-🖥️ Dashboard Pages
+🖥️ **Dashboard Pages**
 
 Executive Dashboard – Revenue, Profit, Orders, and Category-wise insights.
 
 Customer Details Dashboard – Deep dive into unique customers, revenue per customer, and demographic segmentation.
 
-🚀 How to Use
-
-Download the .pbix file:
-
-Amazon Sales Dashboard.pbix
 
 
-Open it in Microsoft Power BI Desktop.
-
-Explore visuals interactively — use slicers for year, category, or customer segment.
-
-📂 File Details
-
-File Name: Amazon Sales Dashboard.pbix
-
-Created By: Umar Alam
-
-Type: Power BI Project File
-
-Purpose: Portfolio / Data Analysis Project
 
 📸 Dashboard Preview
 
